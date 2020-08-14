@@ -1,0 +1,31 @@
+.background-index {
+  background-image: url(../images/wood-green-1440x9001.jpg);
+}
+
+.card-img-fluid{
+  width: 100%;
+    height: 15vw;
+    object-fit: cover;
+
+}
+
+.card-title {
+  text-decoration: none !important;
+}
+
+.img-size {
+  height: 200px;
+  width:  300px;
+}
+
+.container-cocktail{
+  margin: 0px auto;
+  width: 700px;
+}
+button {
+  background-color: blue;
+  color: white;
+  border-radius: 20px;
+  padding: 5px 20px;
+  margin: 10px;
+}
